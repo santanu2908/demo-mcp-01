@@ -66,7 +66,7 @@ demo-mcp-01/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/demo-mcp-01.git
+git clone https://github.com/smohanta2908/demo-mcp-01.git
 cd demo-mcp-01
 ```
 
